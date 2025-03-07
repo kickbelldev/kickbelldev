@@ -1,7 +1,7 @@
 ### 👋 Hi there!
 
 My name is Jongchan Kim, a Front-end developer, not limited to Front-end development. 🌐\
-I am in love with music and books that touch my heart. 🎧📚✨
+I'm in love with music and books—they touch my heart. 🎧📚✨
 
 
 ### 🚀 Current Interests in development
