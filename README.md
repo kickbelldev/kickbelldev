@@ -8,3 +8,4 @@ I'm in love with music and books—they touch my heart. 🎧📚✨
 
 - Exploring and working on side projects.
 - Taking on the challenge of contributing to open-source projects.
+- Utilizing AI in development.
